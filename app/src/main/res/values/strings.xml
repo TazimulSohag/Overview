@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OverviewOutput</string>
+    <string name="overview_txt">Overview</string>
+    <string name="Start_date_txt">Start Date</string>
+    <string name="end_date_txt">End Date</string>
+    <string name="hint_text">WooCommerce</string>
+    <string name="plugin_text">Plugin :</string>
+    <string name="active_install_txt">Active Install</string>
+    <string name="downloads_txt">Downloads</string>
+</resources>
